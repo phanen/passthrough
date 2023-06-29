@@ -5,6 +5,7 @@
 
 ## vfio
 - <https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF>
+- <https://wiki.archlinux.org/title/hybrid_graphics>
 - <https://lantian.pub/article/modify-computer/laptop-muxed-nvidia-passthrough.lantian/>
 - <https://github.com/joeknock90/Single-GPU-Passthrough>
 - <https://www.codeplayer.org/Blog/双显卡笔记本独显直通.html#orgc55a63d>
@@ -339,6 +340,7 @@ or
 - <https://looking-glass.io/docs/B6/requirements/>
 - <https://lostattractor.net/archives/nixos-gpu-vfio-passthrough>
 - <https://github.com/ge9/IddSampleDriver/>
+- <https://learn.microsoft.com/zh-cn/windows-hardware/drivers/display/indirect-display-driver-model-overview>
 - NOTE: use kvmfr module to replace shmem make a bit faster
 - set video type to none(to disable microsoft driver), to display on idd (or if you have a dummy...)
 
