@@ -1,7 +1,11 @@
 # passthrough
 
 ## basic info
-- muxed laptop(y7000p 2020H) with iGPU(Intel UHD) and dGPU(RTX 2060)
+
+muxed laptop(y7000p 2020H) with iGPU(Intel UHD) and dGPU(RTX 2060)
+
+topology
+![topology](https://i.imgur.com/1A1HDV9.png)
 
 ## vfio
 - <https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF>
